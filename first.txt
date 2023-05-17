@@ -1,3 +1,4 @@
+IC Design-----
 1.Spec –規格
 2.Register Transfer Level(RTL) RTL Code—加法器、減法器等等
 3.Pre-sim 
