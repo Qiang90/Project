@@ -1,0 +1,13 @@
+如果我能結構化資料和指令，透過這個組合我能讓電腦產生我想要的目標，那就叫程式。
+
+Program Languages -Running a Program 
+
+程式語言分三大類:Machine-Learning ,Assembly Learning ,high-level Language
+
+C is Procedural 程序式的語言
+
+C++is an object-oriented 物件導向語言就是當編譯族群大的時候相較於C比較好溝通。
+C++比較重視系統方面的細節，所以要比效率的話，C++效率非常快>>>Python。
+
+整合開發環境Integration Design Environment
+type name value address
