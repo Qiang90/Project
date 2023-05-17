@@ -1,2 +1,12 @@
-0.0
-fuck u
+1.Spec –規格
+2.Register Transfer Level(RTL) RTL Code—加法器、減法器等等
+3.Pre-sim 
+4.Synthesis(合成)
+5.Gate Level Netlist (a profile)
+6.Placement 決定標準元件在Chip上的實體位置
+7.Routing 連線在晶片上的實體位置
+8.Layout 一份超級詳細的IC設計圖 
+9.Post-sim&Verification 
+10.Tape-out
+11.Fabrication
+12.Packaging&Testing
